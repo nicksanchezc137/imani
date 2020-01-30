@@ -1,5 +1,7 @@
 CONVERT HTML TO PDF
 LIVE PROJECT: https://imaniportal.jobexperts.co.ke/
+CSS COMPATIBITY: https://github.com/nicksanchezc137/imani/wiki
+Enter file name, paste the HTML and Create PDF
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
